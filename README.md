@@ -2,6 +2,8 @@
 
 # 🌟🌸 React JS 🌸🌟
 
+##🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
 ## 🌷 What’s React JS? 🌷
 
 React JS is this *super popular* JavaScript library for building user interfaces, especially for single-page apps! Developed by Facebook, React lets you create cute and reusable components that make your app look amazing and run so smoothly! 🌈
@@ -45,4 +47,4 @@ Here’s what you’ll need:
    cd my-cute-react-app
    ```
 
- 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+##🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
